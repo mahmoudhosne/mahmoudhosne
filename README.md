@@ -1,17 +1,16 @@
-### Hi there, I'm Youssef Hesham 👋
+### Hi there, I'm mahmoud hosni 👋
 
-## I'm a Python Developer
+## I'm a java script Developer
 
-- 🔭 I’m currently working as Django Developer !
-- 🌱 I'm currently learning networking (CCNA) 🤣
+
+
 
 ### Connect with me:
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]()-->
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCY1Z3fbrPV95IZ5exkTddOw)
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/B.Youssef11)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/profile.php?id=100009038214606)
 
 <br />
 
@@ -29,4 +28,4 @@
 
 <br />
 <br />
-# mahmoudhosne
+
